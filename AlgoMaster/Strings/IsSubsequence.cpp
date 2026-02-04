@@ -1,0 +1,26 @@
+// Given two strings s and t, return true if s is a subsequence of t, or false otherwise.
+
+
+
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    bool isSubsequence(string s, string t) {
+        int sp = 0, tp = 0;
+        while(sp < s.length() && tp < t.length()){
+            if(s[sp] == t[tp]) sp++;
+            tp++;
+        }
+        return sp == s.length();
+    }
+};
+
+int main() {
+    Solution sol;
+    string s = "abc", t = "ahbgdc";
+    if(sol.isSubsequence(s, t)) cout << s << " is a subsequence of " << t << endl;
+    else cout << s << " is not a subsequence of " << t << endl;
+}
