@@ -6,30 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 50 | 7/day | 🔥 Active |
-| **AlgoMaster** | 9 | 3/day | 🔥 Active |
-| **Total** | **59** | **10/day** | ✅ On Track |
+| **LeetCode** | 59 | 7/day | 🔥 Active |
+| **AlgoMaster** | 13 | 3/day | 🔥 Active |
+| **Total** | **72** | **10/day** | ✅ On Track |
 
----
 
-## 📈 Daily Progress Tracker
-
-### Week 1 (Current)
-| Date | LeetCode | AlgoMaster | Total | Notes |
-|------|----------|------------|-------|-------|
-| Day 1 | 7 ✅ | 3 ✅ | 10 | Started Arrays & Strings |
-| Day 2 | 7 ✅ | 3 ✅ | 10 | Focused on Two Pointers |
-| Day 3 | - | - | - | - |
-| Day 4 | - | - | - | - |
-| Day 5 | - | - | - | - |
-| Day 6 | - | - | - | - |
-| Day 7 | - | - | - | - |
-
----
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (50 Problems)
+### 🟢 LeetCode (59 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -64,11 +49,13 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (9 Problems)
+### 🔵 AlgoMaster (13 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
 ├── Bit Manipulation/
+├── Fast & Slow Pointers/
+├── Hash Tables/
 ├── LinkedList/
 ├── Strings/
 └── Two Pointers/
@@ -89,6 +76,8 @@ AlgoMaster/
 | Max Consecutive Ones | ✅ | - | Easy |
 | Find All Numbers Disappeared | ✅ | - | Easy |
 | Set Mismatch | ✅ | - | Easy |
+| Merge Sorted Array | ✅ | ✅ ⭐ | Easy |
+| Rotate Array | - | ✅ | Medium |
 
 ### Strings
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -96,6 +85,7 @@ AlgoMaster/
 | Valid Palindrome | ✅ | ✅ ⭐ | Easy |
 | Longest Common Prefix | ✅ | ✅ ⭐ | Easy |
 | Is Subsequence | ✅ | ✅ ⭐ | Easy |
+| Longest Substring Without Repeating | ✅ | - | Medium |
 
 ### Linked List
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -107,11 +97,17 @@ AlgoMaster/
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Middle of Linked List | ✅ | ✅ ⭐ | Easy |
+| Merge Sorted Array | ✅ | ✅ ⭐ | Easy |
 
 ### Bit Manipulation
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Single Number | ✅ | ✅ ⭐ | Easy |
+
+### Hash Tables
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Isomorphic String | - | ✅ | Easy |
 
 ### Stack
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -121,6 +117,7 @@ AlgoMaster/
 | Evaluate Reverse Polish Notation | ✅ | - | Medium |
 | Exclusive Time of Functions | ✅ | - | Medium |
 | Final Prices With Special Discount | ✅ | - | Easy |
+| Largest Rectangle in Histogram | ✅ | - | Hard |
 
 ### Math
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -133,11 +130,23 @@ AlgoMaster/
 | Ugly Number | ✅ | - | Easy |
 | Self Dividing Numbers | ✅ | - | Easy |
 | Find the Pivot Integer | ✅ | - | Easy |
+| Closest Prime Numbers in Range | ✅ | - | Medium |
 
 ### System Design
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | LRU Cache | ✅ | - | Medium |
+
+### Trees
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Balance Binary Search Tree | ✅ | - | Medium |
+
+### Database
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Duplicate Email | ✅ | - | Easy |
+| Movie Rating | ✅ | - | Medium |
 
 ### JavaScript (30 Days)
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -149,6 +158,7 @@ AlgoMaster/
 | Array Reduce Transformation | ✅ | - | Easy |
 | Apply Transform Over Each Element | ✅ | - | Easy |
 | Filter Elements From Array | ✅ | - | Easy |
+| Return Length of Arguments Passed | ✅ | - | Easy |
 
 ---
 
@@ -157,6 +167,7 @@ AlgoMaster/
 - [x] 🎯 First 10 problems solved
 - [x] 🎯 First 25 problems solved
 - [x] 🎯 First 50 problems solved
+- [ ] 🎯 75 problems solved
 - [ ] 🎯 100 problems solved
 - [ ] 🎯 150 problems solved
 - [ ] 🎯 200 problems solved
@@ -176,24 +187,12 @@ AlgoMaster/
 - [LeetCode](https://leetcode.com)
 - [AlgoMaster](https://algomaster.io)
 
----
-
-## 🔥 Streak Stats
-
-- **Current Streak**: 7 days 🔥
-- **Longest Streak**: 7 days 🏆
-- **Total Days Active**: 7 days
-- **LeetCode Days**: ~7 days (50 problems ~ 7/day)
-- **AlgoMaster Days**: 3 days (9 problems = 3/day)
-
----
-
 ## 📌 Quick Links
 
 - [LeetCode Profile](https://leetcode.com/u/Goswami1002/)
 
 ---
 
-**Last Updated**: 06/02/2026
+**Last Updated**: 09/02/2026
 
 *Keep grinding! Consistency is key! 💪*
