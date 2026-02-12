@@ -6,21 +6,22 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 59 | 7/day | 🔥 Active |
-| **AlgoMaster** | 13 | 3/day | 🔥 Active |
-| **Total** | **72** | **10/day** | ✅ On Track |
+| **LeetCode** | 98 | 7/day | 🔥 Active |
+| **AlgoMaster** | 21 | 3/day | 🔥 Active |
+| **Total** | **119** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (59 Problems)
+### 🟢 LeetCode (98 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
 │   ├── Basic Array Transformations/
 │   ├── Closures/
-│   └── Function Transformations/
+│   ├── Function Transformations/
+│   └── Promises and Time/
 ├── Contest/
 │   ├── Contest-484/
 │   ├── Contest-485/
@@ -44,12 +45,15 @@ Leetcode/
 │   └── System Design/
 └── Top Interview 150/
     ├── Array or String/
+    ├── Hashmap/
     ├── Linked List/
+    ├── Matrix/
+    ├── Sliding Window/
     ├── Stack/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (13 Problems)
+### 🔵 AlgoMaster (21 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -57,6 +61,8 @@ AlgoMaster/
 ├── Fast & Slow Pointers/
 ├── Hash Tables/
 ├── LinkedList/
+├── Matrix/
+├── Stack/
 ├── Strings/
 └── Two Pointers/
 ```
@@ -69,6 +75,7 @@ AlgoMaster/
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Best Time to Buy and Sell Stock | ✅ | ✅ ⭐ | Easy |
+| Best Time to Buy and Sell Stock II | - | ✅ | Medium |
 | Majority Element | ✅ | ✅ ⭐ | Easy |
 | Move Zeroes | ✅ | ✅ ⭐ | Easy |
 | Shuffle The Array | ✅ | - | Easy |
@@ -76,8 +83,12 @@ AlgoMaster/
 | Max Consecutive Ones | ✅ | - | Easy |
 | Find All Numbers Disappeared | ✅ | - | Easy |
 | Set Mismatch | ✅ | - | Easy |
+| How Many Numbers Are Smaller | ✅ | - | Easy |
 | Merge Sorted Array | ✅ | ✅ ⭐ | Easy |
-| Rotate Array | - | ✅ | Medium |
+| Remove Duplicates from Sorted Array | ✅ | ✅ ⭐ | Easy |
+| Remove Element | ✅ | - | Easy |
+| Rotate Array | ✅ | ✅ ⭐ | Medium |
+| Product of Array Except Self | - | ✅ | Medium |
 
 ### Strings
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -92,32 +103,55 @@ AlgoMaster/
 |---------|----------|------------|------------|
 | Reverse Linked List | ✅ | ✅ ⭐ | Easy |
 | Middle of Linked List | ✅ | ✅ ⭐ | Easy |
+| Linked List Cycle | ✅ | - | Easy |
+| Linked List Cycle II | - | ✅ | Medium |
+| Palindrome Linked List | - | ✅ | Easy |
+| Merge Two Sorted Lists | ✅ | - | Easy |
 
 ### Two Pointers
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
-| Middle of Linked List | ✅ | ✅ ⭐ | Easy |
+| Valid Palindrome | ✅ | ✅ ⭐ | Easy |
+| Is Subsequence | ✅ | ✅ ⭐ | Easy |
 | Merge Sorted Array | ✅ | ✅ ⭐ | Easy |
 
 ### Bit Manipulation
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Single Number | ✅ | ✅ ⭐ | Easy |
+| Number of 1 Bits | - | ✅ | Easy |
+| Counting Bits | ✅ | - | Easy |
 
 ### Hash Tables
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
-| Isomorphic String | - | ✅ | Easy |
+| Two Sum | ✅ | - | Easy |
+| Isomorphic String | ✅ | ✅ ⭐ | Easy |
+| Contains Duplicate | ✅ | - | Easy |
+| Maximum Number of Balloons | - | ✅ | Easy |
 
 ### Stack
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
+| Valid Parentheses | ✅ | ✅ ⭐ | Easy |
 | Daily Temperatures | ✅ | - | Medium |
 | Build Array With Stack Operations | ✅ | - | Easy |
 | Evaluate Reverse Polish Notation | ✅ | - | Medium |
 | Exclusive Time of Functions | ✅ | - | Medium |
 | Final Prices With Special Discount | ✅ | - | Easy |
 | Largest Rectangle in Histogram | ✅ | - | Hard |
+
+### Queue
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Implement Queue Using Stack | ✅ | - | Easy |
+| Number of Students Unable to Eat Lunch | ✅ | - | Easy |
+| Time Needed to Buy Tickets | ✅ | - | Easy |
+
+### Matrix
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Spiral Matrix | ✅ | ✅ ⭐ | Medium |
 
 ### Math
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -131,22 +165,48 @@ AlgoMaster/
 | Self Dividing Numbers | ✅ | - | Easy |
 | Find the Pivot Integer | ✅ | - | Easy |
 | Closest Prime Numbers in Range | ✅ | - | Medium |
+| Can Make Arithmetic Progression | ✅ | - | Easy |
+| Smallest Integer Divisible by K | ✅ | - | Medium |
+| Largest Triangle Area | ✅ | - | Easy |
+| Max Points on Line | ✅ | - | Hard |
+| Projection Area 3D Shapes | ✅ | - | Easy |
+| Number of Ways to Rearrange Sticks | ✅ | - | Hard |
+
+### Trees
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Balance Binary Search Tree | ✅ | - | Medium |
+| Maximum Depth of Binary Tree | ✅ | - | Easy |
+| Minimum Depth of Binary Tree | ✅ | - | Easy |
+| Same Tree | ✅ | - | Easy |
 
 ### System Design
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | LRU Cache | ✅ | - | Medium |
 
-### Trees
+### Database (SQL)
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
-| Balance Binary Search Tree | ✅ | - | Medium |
-
-### Database
-| Problem | LeetCode | AlgoMaster | Difficulty |
-|---------|----------|------------|------------|
+| Combine Two Tables | ✅ | - | Easy |
+| Customers Who Never Order | ✅ | - | Easy |
+| Delete Duplicate Emails | ✅ | - | Easy |
 | Duplicate Email | ✅ | - | Easy |
+| Rank Score | ✅ | - | Medium |
+| Second Highest Salary | ✅ | - | Medium |
 | Movie Rating | ✅ | - | Medium |
+| Classes With At Least 5 Students | ✅ | - | Easy |
+| Customer Placing Largest Orders | ✅ | - | Easy |
+| Monthly Transactions I | ✅ | - | Medium |
+| User Activity for Past 30 Days I | ✅ | - | Easy |
+| Customers Who Bought All Products | ✅ | - | Medium |
+| Students and Examinations | ✅ | - | Easy |
+| Tree Node | ✅ | - | Medium |
+| Find Customer Referee | ✅ | - | Easy |
+| Employees Earning More Than Managers | ✅ | - | Easy |
+| Not Boring Movies | ✅ | - | Easy |
+| Consecutive Numbers | ✅ | - | Medium |
+| Trip Users | ✅ | - | Hard |
 
 ### JavaScript (30 Days)
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -159,6 +219,31 @@ AlgoMaster/
 | Apply Transform Over Each Element | ✅ | - | Easy |
 | Filter Elements From Array | ✅ | - | Easy |
 | Return Length of Arguments Passed | ✅ | - | Easy |
+| Allow One Function Call | ✅ | - | Easy |
+| Memoize | ✅ | - | Medium |
+| Add Two Promises | ✅ | - | Easy |
+
+### Contest Problems
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Vowel Consonant Score | ✅ | - | Easy |
+| Count Monobit Integers | ✅ | - | Medium |
+| Final Element After Subarray Deletions | ✅ | - | Medium |
+
+### Daily Problems
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Balance Binary Search Tree | ✅ | - | Medium |
+| Longest Balanced Subarray I | ✅ | - | Easy |
+| Minimum Removals of Balance Array | ✅ | - | Medium |
+| Trionic Array I | ✅ | - | Easy |
+
+### Other Problems
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Binary Search | ✅ | - | Easy |
+| Climbing Stairs | ✅ | - | Easy |
+| Missing Number | ✅ | - | Easy |
 
 ---
 
@@ -167,8 +252,8 @@ AlgoMaster/
 - [x] 🎯 First 10 problems solved
 - [x] 🎯 First 25 problems solved
 - [x] 🎯 First 50 problems solved
-- [ ] 🎯 75 problems solved
-- [ ] 🎯 100 problems solved
+- [x] 🎯 75 problems solved
+- [x] 🎯 100 problems solved
 - [ ] 🎯 150 problems solved
 - [ ] 🎯 200 problems solved
 
@@ -193,6 +278,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 09/02/2026
+**Last Updated**: 12/02/2026
 
 *Keep grinding! Consistency is key! 💪*
