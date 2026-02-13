@@ -6,15 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 98 | 7/day | 🔥 Active |
-| **AlgoMaster** | 21 | 3/day | 🔥 Active |
-| **Total** | **119** | **10/day** | ✅ On Track |
+| **LeetCode** | 104 | 7/day | 🔥 Active |
+| **AlgoMaster** | 24 | 3/day | 🔥 Active |
+| **Total** | **128** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (98 Problems)
+### 🟢 LeetCode (104 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -53,7 +53,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (21 Problems)
+### 🔵 AlgoMaster (24 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -107,6 +107,7 @@ AlgoMaster/
 | Linked List Cycle II | - | ✅ | Medium |
 | Palindrome Linked List | - | ✅ | Easy |
 | Merge Two Sorted Lists | ✅ | - | Easy |
+| Add Two Numbers | - | ✅ | Medium |
 
 ### Two Pointers
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -120,7 +121,7 @@ AlgoMaster/
 |---------|----------|------------|------------|
 | Single Number | ✅ | ✅ ⭐ | Easy |
 | Number of 1 Bits | - | ✅ | Easy |
-| Counting Bits | ✅ | - | Easy |
+| Counting Bits | ✅ | ✅ ⭐ | Easy |
 
 ### Hash Tables
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -152,6 +153,7 @@ AlgoMaster/
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Spiral Matrix | ✅ | ✅ ⭐ | Medium |
+| Rotate Image | - | ✅ | Medium |
 
 ### Math
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -278,6 +280,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 12/02/2026
+**Last Updated**: 13/02/2026
 
 *Keep grinding! Consistency is key! 💪*
