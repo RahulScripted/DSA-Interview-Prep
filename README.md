@@ -6,15 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 104 | 7/day | 🔥 Active |
-| **AlgoMaster** | 24 | 3/day | 🔥 Active |
-| **Total** | **128** | **10/day** | ✅ On Track |
+| **LeetCode** | 112 | 7/day | 🔥 Active |
+| **AlgoMaster** | 27 | 3/day | 🔥 Active |
+| **Total** | **139** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (104 Problems)
+### 🟢 LeetCode (112 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -53,7 +53,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (24 Problems)
+### 🔵 AlgoMaster (27 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -97,6 +97,7 @@ AlgoMaster/
 | Longest Common Prefix | ✅ | ✅ ⭐ | Easy |
 | Is Subsequence | ✅ | ✅ ⭐ | Easy |
 | Longest Substring Without Repeating | ✅ | - | Medium |
+| Reverse Words in String | - | ✅ | Medium |
 
 ### Linked List
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -108,6 +109,9 @@ AlgoMaster/
 | Palindrome Linked List | - | ✅ | Easy |
 | Merge Two Sorted Lists | ✅ | - | Easy |
 | Add Two Numbers | - | ✅ | Medium |
+| Reverse Linked List II | - | ✅ | Medium |
+| Intersection of Two Linked Lists | - | ✅ | Easy |
+| Remove Linked List Elements | ✅ | - | Easy |
 
 ### Two Pointers
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -120,8 +124,9 @@ AlgoMaster/
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Single Number | ✅ | ✅ ⭐ | Easy |
-| Number of 1 Bits | - | ✅ | Easy |
+| Number of 1 Bits | ✅ | ✅ ⭐ | Easy |
 | Counting Bits | ✅ | ✅ ⭐ | Easy |
+| Reverse Bits | ✅ | - | Easy |
 
 ### Hash Tables
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -173,6 +178,7 @@ AlgoMaster/
 | Max Points on Line | ✅ | - | Hard |
 | Projection Area 3D Shapes | ✅ | - | Easy |
 | Number of Ways to Rearrange Sticks | ✅ | - | Hard |
+| Rectangle Area | ✅ | - | Medium |
 
 ### Trees
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -209,6 +215,8 @@ AlgoMaster/
 | Not Boring Movies | ✅ | - | Easy |
 | Consecutive Numbers | ✅ | - | Medium |
 | Trip Users | ✅ | - | Hard |
+| Investment in 2016 | ✅ | - | Medium |
+| Department Highest Salary | ✅ | - | Medium |
 
 ### JavaScript (30 Days)
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -224,6 +232,8 @@ AlgoMaster/
 | Allow One Function Call | ✅ | - | Easy |
 | Memoize | ✅ | - | Medium |
 | Add Two Promises | ✅ | - | Easy |
+| Sleep | ✅ | - | Easy |
+| Timeout Cancellation | ✅ | - | Easy |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -240,12 +250,20 @@ AlgoMaster/
 | Minimum Removals of Balance Array | ✅ | - | Medium |
 | Trionic Array I | ✅ | - | Easy |
 
+### Heap
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Last Stone Weight | ✅ | - | Easy |
+| Find K Pairs with Smallest Sums | ✅ | - | Medium |
+
 ### Other Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Binary Search | ✅ | - | Easy |
 | Climbing Stairs | ✅ | - | Easy |
 | Missing Number | ✅ | - | Easy |
+| Roman to Integer | ✅ | - | Easy |
+| Best Time to Buy and Sell Stock II | ✅ | - | Medium |
 
 ---
 
@@ -280,6 +298,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 13/02/2026
+**Last Updated**: 16/02/2026
 
 *Keep grinding! Consistency is key! 💪*
