@@ -6,15 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 112 | 7/day | 🔥 Active |
-| **AlgoMaster** | 27 | 3/day | 🔥 Active |
-| **Total** | **139** | **10/day** | ✅ On Track |
+| **LeetCode** | 120 | 7/day | 🔥 Active |
+| **AlgoMaster** | 30 | 3/day | 🔥 Active |
+| **Total** | **150** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (112 Problems)
+### 🟢 LeetCode (120 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -53,7 +53,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (27 Problems)
+### 🔵 AlgoMaster (30 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -88,7 +88,8 @@ AlgoMaster/
 | Remove Duplicates from Sorted Array | ✅ | ✅ ⭐ | Easy |
 | Remove Element | ✅ | - | Easy |
 | Rotate Array | ✅ | ✅ ⭐ | Medium |
-| Product of Array Except Self | - | ✅ | Medium |
+| Product of Array Except Self | ✅ | ✅ ⭐ | Medium |
+| First Missing Positive | - | ✅ | Hard |
 
 ### Strings
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -98,6 +99,7 @@ AlgoMaster/
 | Is Subsequence | ✅ | ✅ ⭐ | Easy |
 | Longest Substring Without Repeating | ✅ | - | Medium |
 | Reverse Words in String | - | ✅ | Medium |
+| Zigzag Conversion | - | ✅ | Medium |
 
 ### Linked List
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -106,7 +108,7 @@ AlgoMaster/
 | Middle of Linked List | ✅ | ✅ ⭐ | Easy |
 | Linked List Cycle | ✅ | - | Easy |
 | Linked List Cycle II | - | ✅ | Medium |
-| Palindrome Linked List | - | ✅ | Easy |
+| Palindrome Linked List | ✅ | ✅ ⭐ | Easy |
 | Merge Two Sorted Lists | ✅ | - | Easy |
 | Add Two Numbers | - | ✅ | Medium |
 | Reverse Linked List II | - | ✅ | Medium |
@@ -126,7 +128,7 @@ AlgoMaster/
 | Single Number | ✅ | ✅ ⭐ | Easy |
 | Number of 1 Bits | ✅ | ✅ ⭐ | Easy |
 | Counting Bits | ✅ | ✅ ⭐ | Easy |
-| Reverse Bits | ✅ | - | Easy |
+| Reverse Bits | ✅ | ✅ ⭐ | Easy |
 
 ### Hash Tables
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -202,6 +204,7 @@ AlgoMaster/
 | Duplicate Email | ✅ | - | Easy |
 | Rank Score | ✅ | - | Medium |
 | Second Highest Salary | ✅ | - | Medium |
+| Nth Highest Salary | ✅ | - | Medium |
 | Movie Rating | ✅ | - | Medium |
 | Classes With At Least 5 Students | ✅ | - | Easy |
 | Customer Placing Largest Orders | ✅ | - | Easy |
@@ -217,6 +220,7 @@ AlgoMaster/
 | Trip Users | ✅ | - | Hard |
 | Investment in 2016 | ✅ | - | Medium |
 | Department Highest Salary | ✅ | - | Medium |
+| Product Sales Analysis III | ✅ | - | Medium |
 
 ### JavaScript (30 Days)
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -234,6 +238,7 @@ AlgoMaster/
 | Add Two Promises | ✅ | - | Easy |
 | Sleep | ✅ | - | Easy |
 | Timeout Cancellation | ✅ | - | Easy |
+| Interval Cancellation | ✅ | - | Easy |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -249,12 +254,14 @@ AlgoMaster/
 | Longest Balanced Subarray I | ✅ | - | Easy |
 | Minimum Removals of Balance Array | ✅ | - | Medium |
 | Trionic Array I | ✅ | - | Easy |
+| Binary Watch | ✅ | - | Easy |
 
 ### Heap
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Last Stone Weight | ✅ | - | Easy |
 | Find K Pairs with Smallest Sums | ✅ | - | Medium |
+| Construct Target Array With Multiple Sums | ✅ | - | Hard |
 
 ### Other Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -274,7 +281,7 @@ AlgoMaster/
 - [x] 🎯 First 50 problems solved
 - [x] 🎯 75 problems solved
 - [x] 🎯 100 problems solved
-- [ ] 🎯 150 problems solved
+- [x] 🎯 150 problems solved
 - [ ] 🎯 200 problems solved
 
 ---
@@ -298,6 +305,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 16/02/2026
+**Last Updated**: 17/02/2026
 
 *Keep grinding! Consistency is key! 💪*
