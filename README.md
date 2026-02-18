@@ -290,11 +290,6 @@ AlgoMaster/
 
 ⭐ **Common Problems**: Problems marked with ⭐ are solved in both LeetCode and AlgoMaster
 
-### Focus Areas
-- **Current**: Arrays, Strings, Two Pointers
-- **Next**: Binary Search, Sliding Window, Hash Tables
-- **Upcoming**: Trees, Graphs, Dynamic Programming
-
 ### Resources
 - [LeetCode](https://leetcode.com)
 - [AlgoMaster](https://algomaster.io)
