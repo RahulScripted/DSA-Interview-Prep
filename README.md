@@ -6,15 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 120 | 7/day | 🔥 Active |
-| **AlgoMaster** | 30 | 3/day | 🔥 Active |
-| **Total** | **150** | **10/day** | ✅ On Track |
+| **LeetCode** | 128 | 7/day | 🔥 Active |
+| **AlgoMaster** | 33 | 3/day | 🔥 Active |
+| **Total** | **161** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (120 Problems)
+### 🟢 LeetCode (128 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -53,7 +53,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (30 Problems)
+### 🔵 AlgoMaster (33 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -121,6 +121,7 @@ AlgoMaster/
 | Valid Palindrome | ✅ | ✅ ⭐ | Easy |
 | Is Subsequence | ✅ | ✅ ⭐ | Easy |
 | Merge Sorted Array | ✅ | ✅ ⭐ | Easy |
+| Two Sum II | - | ✅ | Medium |
 
 ### Bit Manipulation
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -129,6 +130,7 @@ AlgoMaster/
 | Number of 1 Bits | ✅ | ✅ ⭐ | Easy |
 | Counting Bits | ✅ | ✅ ⭐ | Easy |
 | Reverse Bits | ✅ | ✅ ⭐ | Easy |
+| Sum of Two Integers | - | ✅ | Medium |
 
 ### Hash Tables
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -137,6 +139,7 @@ AlgoMaster/
 | Isomorphic String | ✅ | ✅ ⭐ | Easy |
 | Contains Duplicate | ✅ | - | Easy |
 | Maximum Number of Balloons | - | ✅ | Easy |
+| Design HashMap | - | ✅ | Easy |
 
 ### Stack
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -221,6 +224,8 @@ AlgoMaster/
 | Investment in 2016 | ✅ | - | Medium |
 | Department Highest Salary | ✅ | - | Medium |
 | Product Sales Analysis III | ✅ | - | Medium |
+| Human Traffic of Stadium | ✅ | - | Hard |
+| Department Top Three Salaries | ✅ | - | Hard |
 
 ### JavaScript (30 Days)
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -239,6 +244,7 @@ AlgoMaster/
 | Sleep | ✅ | - | Easy |
 | Timeout Cancellation | ✅ | - | Easy |
 | Interval Cancellation | ✅ | - | Easy |
+| Promise Time Limit | ✅ | - | Medium |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -255,6 +261,7 @@ AlgoMaster/
 | Minimum Removals of Balance Array | ✅ | - | Medium |
 | Trionic Array I | ✅ | - | Easy |
 | Binary Watch | ✅ | - | Easy |
+| Binary Number With Alternating Bits | ✅ | - | Easy |
 
 ### Heap
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -265,12 +272,15 @@ AlgoMaster/
 
 ### Other Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
-|---------|----------|------------|------------|
+|---------|----------|------------|------------|  
 | Binary Search | ✅ | - | Easy |
 | Climbing Stairs | ✅ | - | Easy |
 | Missing Number | ✅ | - | Easy |
 | Roman to Integer | ✅ | - | Easy |
 | Best Time to Buy and Sell Stock II | ✅ | - | Medium |
+| Length of Last Word | ✅ | - | Easy |
+| Remove Duplicates from Sorted List | ✅ | - | Easy |
+| Detect Capital | ✅ | - | Easy |
 
 ---
 
@@ -300,6 +310,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 17/02/2026
+**Last Updated**: 18/02/2026
 
 *Keep grinding! Consistency is key! 💪*
