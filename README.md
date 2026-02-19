@@ -6,15 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 128 | 7/day | 🔥 Active |
-| **AlgoMaster** | 33 | 3/day | 🔥 Active |
-| **Total** | **161** | **10/day** | ✅ On Track |
+| **LeetCode** | 136 | 7/day | 🔥 Active |
+| **AlgoMaster** | 36 | 3/day | 🔥 Active |
+| **Total** | **172** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (128 Problems)
+### 🟢 LeetCode (136 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -53,7 +53,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (33 Problems)
+### 🔵 AlgoMaster (36 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -62,6 +62,7 @@ AlgoMaster/
 ├── Hash Tables/
 ├── LinkedList/
 ├── Matrix/
+├── Sliding Window/
 ├── Stack/
 ├── Strings/
 └── Two Pointers/
@@ -97,7 +98,7 @@ AlgoMaster/
 | Valid Palindrome | ✅ | ✅ ⭐ | Easy |
 | Longest Common Prefix | ✅ | ✅ ⭐ | Easy |
 | Is Subsequence | ✅ | ✅ ⭐ | Easy |
-| Longest Substring Without Repeating | ✅ | - | Medium |
+| Longest Substring Without Repeating | ✅ | ✅ ⭐ | Medium |
 | Reverse Words in String | - | ✅ | Medium |
 | Zigzag Conversion | - | ✅ | Medium |
 
@@ -122,6 +123,7 @@ AlgoMaster/
 | Is Subsequence | ✅ | ✅ ⭐ | Easy |
 | Merge Sorted Array | ✅ | ✅ ⭐ | Easy |
 | Two Sum II | - | ✅ | Medium |
+| Container With Most Water | - | ✅ | Medium |
 
 ### Bit Manipulation
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -140,6 +142,7 @@ AlgoMaster/
 | Contains Duplicate | ✅ | - | Easy |
 | Maximum Number of Balloons | - | ✅ | Easy |
 | Design HashMap | - | ✅ | Easy |
+| Number of Good Pairs | - | ✅ | Easy |
 
 ### Stack
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -158,6 +161,11 @@ AlgoMaster/
 | Implement Queue Using Stack | ✅ | - | Easy |
 | Number of Students Unable to Eat Lunch | ✅ | - | Easy |
 | Time Needed to Buy Tickets | ✅ | - | Easy |
+
+### Sliding Window
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Longest Substring Without Repeating | ✅ | ✅ ⭐ | Medium |
 
 ### Matrix
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -184,6 +192,7 @@ AlgoMaster/
 | Projection Area 3D Shapes | ✅ | - | Easy |
 | Number of Ways to Rearrange Sticks | ✅ | - | Hard |
 | Rectangle Area | ✅ | - | Medium |
+| Gray Code | ✅ | - | Medium |
 
 ### Trees
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -192,6 +201,7 @@ AlgoMaster/
 | Maximum Depth of Binary Tree | ✅ | - | Easy |
 | Minimum Depth of Binary Tree | ✅ | - | Easy |
 | Same Tree | ✅ | - | Easy |
+| Diameter of Binary Tree | ✅ | - | Easy |
 
 ### System Design
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -226,6 +236,8 @@ AlgoMaster/
 | Product Sales Analysis III | ✅ | - | Medium |
 | Human Traffic of Stadium | ✅ | - | Hard |
 | Department Top Three Salaries | ✅ | - | Hard |
+| Rising Temperature | ✅ | - | Easy |
+| Employees Whose Manager Left | ✅ | - | Easy |
 
 ### JavaScript (30 Days)
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -245,6 +257,7 @@ AlgoMaster/
 | Timeout Cancellation | ✅ | - | Easy |
 | Interval Cancellation | ✅ | - | Easy |
 | Promise Time Limit | ✅ | - | Medium |
+| Cache With Time Limit | ✅ | - | Medium |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -262,6 +275,7 @@ AlgoMaster/
 | Trionic Array I | ✅ | - | Easy |
 | Binary Watch | ✅ | - | Easy |
 | Binary Number With Alternating Bits | ✅ | - | Easy |
+| Count Binary Substrings | ✅ | - | Easy |
 
 ### Heap
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -281,6 +295,7 @@ AlgoMaster/
 | Length of Last Word | ✅ | - | Easy |
 | Remove Duplicates from Sorted List | ✅ | - | Easy |
 | Detect Capital | ✅ | - | Easy |
+| License Key Formatting | ✅ | - | Easy |
 
 ---
 
@@ -310,6 +325,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 18/02/2026
+**Last Updated**: 19/02/2026
 
 *Keep grinding! Consistency is key! 💪*
