@@ -6,15 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 144 | 7/day | 🔥 Active |
-| **AlgoMaster** | 39 | 3/day | 🔥 Active |
-| **Total** | **183** | **10/day** | ✅ On Track |
+| **LeetCode** | 152 | 7/day | 🔥 Active |
+| **AlgoMaster** | 42 | 3/day | 🔥 Active |
+| **Total** | **194** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (144 Problems)
+### 🟢 LeetCode (152 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -53,13 +53,14 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (39 Problems)
+### 🔵 AlgoMaster (42 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
 ├── Bit Manipulation/
 ├── Fast & Slow Pointers/
 ├── Hash Tables/
+├── Kadane's Algorithm/
 ├── LinkedList/
 ├── Matrix/
 ├── Prefix Sum/
@@ -116,6 +117,7 @@ AlgoMaster/
 | Reverse Linked List II | - | ✅ | Medium |
 | Intersection of Two Linked Lists | - | ✅ | Easy |
 | Remove Linked List Elements | ✅ | - | Easy |
+| Rotate List | - | ✅ | Medium |
 
 ### Two Pointers
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -123,7 +125,7 @@ AlgoMaster/
 | Valid Palindrome | ✅ | ✅ ⭐ | Easy |
 | Is Subsequence | ✅ | ✅ ⭐ | Easy |
 | Merge Sorted Array | ✅ | ✅ ⭐ | Easy |
-| Two Sum II | - | ✅ | Medium |
+| Two Sum II | ✅ | ✅ ⭐ | Medium |
 | Container With Most Water | - | ✅ | Medium |
 | 3Sum | - | ✅ | Medium |
 
@@ -175,11 +177,17 @@ AlgoMaster/
 |---------|----------|------------|------------|
 | Subarray Sum Equals K | - | ✅ | Medium |
 
+### Kadane's Algorithm
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Maximum Subarray | - | ✅ | Medium |
+
 ### Matrix
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Spiral Matrix | ✅ | ✅ ⭐ | Medium |
 | Rotate Image | - | ✅ | Medium |
+| Set Matrix Zeroes | - | ✅ | Medium |
 
 ### Math
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -212,6 +220,7 @@ AlgoMaster/
 | Same Tree | ✅ | - | Easy |
 | Diameter of Binary Tree | ✅ | - | Easy |
 | Average of Levels in Binary Tree | ✅ | - | Easy |
+| Path Sum | ✅ | - | Easy |
 
 ### System Design
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -249,6 +258,9 @@ AlgoMaster/
 | Rising Temperature | ✅ | - | Easy |
 | Employees Whose Manager Left | ✅ | - | Easy |
 | List the Products Ordered in Period | ✅ | - | Easy |
+| Game Play Analysis I | ✅ | - | Easy |
+
+**✅ SQL Quest Completed!**
 
 ### JavaScript (30 Days)
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -270,6 +282,7 @@ AlgoMaster/
 | Promise Time Limit | ✅ | - | Medium |
 | Cache With Time Limit | ✅ | - | Medium |
 | Debounce | ✅ | - | Medium |
+| Execute Asynchronous Functions in Parallel | ✅ | - | Medium |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -289,6 +302,7 @@ AlgoMaster/
 | Binary Number With Alternating Bits | ✅ | - | Easy |
 | Count Binary Substrings | ✅ | - | Easy |
 | Special Binary String | ✅ | - | Hard |
+| String Contains All Binary Codes of Size K | ✅ | - | Medium |
 
 ### Heap
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -310,6 +324,8 @@ AlgoMaster/
 | Detect Capital | ✅ | - | Easy |
 | License Key Formatting | ✅ | - | Easy |
 | Masking Personal Information | ✅ | - | Medium |
+| Repeated Substring Pattern | ✅ | - | Easy |
+| Single Number II | ✅ | - | Medium |
 
 ---
 
@@ -339,6 +355,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 20/02/2026
+**Last Updated**: 23/02/2026
 
 *Keep grinding! Consistency is key! 💪*
