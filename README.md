@@ -6,15 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 152 | 7/day | 🔥 Active |
-| **AlgoMaster** | 42 | 3/day | 🔥 Active |
-| **Total** | **194** | **10/day** | ✅ On Track |
+| **LeetCode** | 159 | 7/day | 🔥 Active |
+| **AlgoMaster** | 45 | 3/day | 🔥 Active |
+| **Total** | **204** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (152 Problems)
+### 🟢 LeetCode (159 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -53,7 +53,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (42 Problems)
+### 🔵 AlgoMaster (45 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -126,8 +126,9 @@ AlgoMaster/
 | Is Subsequence | ✅ | ✅ ⭐ | Easy |
 | Merge Sorted Array | ✅ | ✅ ⭐ | Easy |
 | Two Sum II | ✅ | ✅ ⭐ | Medium |
-| Container With Most Water | - | ✅ | Medium |
+| Container With Most Water | ✅ | ✅ ⭐ | Medium |
 | 3Sum | - | ✅ | Medium |
+| Trapping Rain Water | - | ✅ | Hard |
 
 ### Bit Manipulation
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -171,11 +172,13 @@ AlgoMaster/
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Longest Substring Without Repeating | ✅ | ✅ ⭐ | Medium |
+| Find All Anagrams in a String | - | ✅ | Medium |
 
 ### Prefix Sum
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Subarray Sum Equals K | - | ✅ | Medium |
+| Contiguous Array | - | ✅ | Medium |
 
 ### Kadane's Algorithm
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -259,8 +262,7 @@ AlgoMaster/
 | Employees Whose Manager Left | ✅ | - | Easy |
 | List the Products Ordered in Period | ✅ | - | Easy |
 | Game Play Analysis I | ✅ | - | Easy |
-
-**✅ SQL Quest Completed!**
+| Employee Bonus | ✅ | - | Easy |
 
 ### JavaScript (30 Days)
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -283,6 +285,7 @@ AlgoMaster/
 | Cache With Time Limit | ✅ | - | Medium |
 | Debounce | ✅ | - | Medium |
 | Execute Asynchronous Functions in Parallel | ✅ | - | Medium |
+| Is Object Empty | ✅ | - | Easy |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -303,6 +306,7 @@ AlgoMaster/
 | Count Binary Substrings | ✅ | - | Easy |
 | Special Binary String | ✅ | - | Hard |
 | String Contains All Binary Codes of Size K | ✅ | - | Medium |
+| Sum of Root To Leaf Binary Numbers | ✅ | - | Easy |
 
 ### Heap
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -326,18 +330,20 @@ AlgoMaster/
 | Masking Personal Information | ✅ | - | Medium |
 | Repeated Substring Pattern | ✅ | - | Easy |
 | Single Number II | ✅ | - | Medium |
+| Rotate String | ✅ | - | Easy |
+| Reverse Integer | ✅ | - | Medium |
+| Two Sum | ✅ | - | Easy |
 
 ---
 
 ## 🏆 Milestones
 
-- [x] 🎯 First 10 problems solved
-- [x] 🎯 First 25 problems solved
-- [x] 🎯 First 50 problems solved
-- [x] 🎯 75 problems solved
 - [x] 🎯 100 problems solved
-- [x] 🎯 150 problems solved
-- [ ] 🎯 200 problems solved
+- [x] 🎯 200 problems solved
+- [] 🎯 300 problems solved
+- [] 🎯 400 problems solved
+- [] 🎯 500 problems solved
+- [] 🎯 600 problems solved
 
 ---
 
@@ -355,6 +361,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 23/02/2026
+**Last Updated**: 24/02/2026
 
 *Keep grinding! Consistency is key! 💪*
