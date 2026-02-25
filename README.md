@@ -6,15 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 159 | 7/day | 🔥 Active |
-| **AlgoMaster** | 45 | 3/day | 🔥 Active |
-| **Total** | **204** | **10/day** | ✅ On Track |
+| **LeetCode** | 166 | 7/day | 🔥 Active |
+| **AlgoMaster** | 48 | 3/day | 🔥 Active |
+| **Total** | **214** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (159 Problems)
+### 🟢 LeetCode (166 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -53,7 +53,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (45 Problems)
+### 🔵 AlgoMaster (48 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -138,6 +138,7 @@ AlgoMaster/
 | Counting Bits | ✅ | ✅ ⭐ | Easy |
 | Reverse Bits | ✅ | ✅ ⭐ | Easy |
 | Sum of Two Integers | - | ✅ | Medium |
+| Bitwise AND of Numbers Range | - | ✅ | Medium |
 
 ### Hash Tables
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -149,6 +150,7 @@ AlgoMaster/
 | Design HashMap | - | ✅ | Easy |
 | Number of Good Pairs | - | ✅ | Easy |
 | Group Anagrams | - | ✅ | Medium |
+| Ransom Note | - | ✅ | Easy |
 
 ### Stack
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -179,6 +181,7 @@ AlgoMaster/
 |---------|----------|------------|------------|
 | Subarray Sum Equals K | - | ✅ | Medium |
 | Contiguous Array | - | ✅ | Medium |
+| Contiguous Subarray Sum | - | ✅ | Medium |
 
 ### Kadane's Algorithm
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -189,7 +192,7 @@ AlgoMaster/
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
 | Spiral Matrix | ✅ | ✅ ⭐ | Medium |
-| Rotate Image | - | ✅ | Medium |
+| Rotate Image | ✅ | ✅ ⭐ | Medium |
 | Set Matrix Zeroes | - | ✅ | Medium |
 
 ### Math
@@ -286,6 +289,7 @@ AlgoMaster/
 | Debounce | ✅ | - | Medium |
 | Execute Asynchronous Functions in Parallel | ✅ | - | Medium |
 | Is Object Empty | ✅ | - | Easy |
+| Chunk Array | ✅ | - | Easy |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -307,6 +311,7 @@ AlgoMaster/
 | Special Binary String | ✅ | - | Hard |
 | String Contains All Binary Codes of Size K | ✅ | - | Medium |
 | Sum of Root To Leaf Binary Numbers | ✅ | - | Easy |
+| Sort the Number By Number Of 1 Bits | ✅ | - | Easy |
 
 ### Heap
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -333,6 +338,8 @@ AlgoMaster/
 | Rotate String | ✅ | - | Easy |
 | Reverse Integer | ✅ | - | Medium |
 | Two Sum | ✅ | - | Easy |
+| Simple Bank System | ✅ | - | Medium |
+| Repeated String Match | ✅ | - | Medium |
 
 ---
 
@@ -361,6 +368,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 24/02/2026
+**Last Updated**: 25/02/2026
 
 *Keep grinding! Consistency is key! 💪*
