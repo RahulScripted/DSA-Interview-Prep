@@ -6,21 +6,22 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 166 | 7/day | 🔥 Active |
-| **AlgoMaster** | 48 | 3/day | 🔥 Active |
-| **Total** | **214** | **10/day** | ✅ On Track |
+| **LeetCode** | 173 | 7/day | 🔥 Active |
+| **AlgoMaster** | 51 | 3/day | 🔥 Active |
+| **Total** | **224** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (166 Problems)
+### 🟢 LeetCode (173 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
 │   ├── Basic Array Transformations/
 │   ├── Closures/
 │   ├── Function Transformations/
+│   ├── JSON/
 │   └── Promises and Time/
 ├── Contest/
 │   ├── Contest-484/
@@ -53,7 +54,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (48 Problems)
+### 🔵 AlgoMaster (51 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -139,6 +140,7 @@ AlgoMaster/
 | Reverse Bits | ✅ | ✅ ⭐ | Easy |
 | Sum of Two Integers | - | ✅ | Medium |
 | Bitwise AND of Numbers Range | - | ✅ | Medium |
+| Single Number III | - | ✅ | Medium |
 
 ### Hash Tables
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -151,6 +153,7 @@ AlgoMaster/
 | Number of Good Pairs | - | ✅ | Easy |
 | Group Anagrams | - | ✅ | Medium |
 | Ransom Note | - | ✅ | Easy |
+| Range Sum Query | - | ✅ | Easy |
 
 ### Stack
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -175,6 +178,7 @@ AlgoMaster/
 |---------|----------|------------|------------|
 | Longest Substring Without Repeating | ✅ | ✅ ⭐ | Medium |
 | Find All Anagrams in a String | - | ✅ | Medium |
+| Contains Duplicate II | - | ✅ | Easy |
 
 ### Prefix Sum
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -193,7 +197,7 @@ AlgoMaster/
 |---------|----------|------------|------------|
 | Spiral Matrix | ✅ | ✅ ⭐ | Medium |
 | Rotate Image | ✅ | ✅ ⭐ | Medium |
-| Set Matrix Zeroes | - | ✅ | Medium |
+| Set Matrix Zeroes | ✅ | ✅ ⭐ | Medium |
 
 ### Math
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -267,6 +271,8 @@ AlgoMaster/
 | Game Play Analysis I | ✅ | - | Easy |
 | Employee Bonus | ✅ | - | Easy |
 
+**✅ SQL Quest Completed!**
+
 ### JavaScript (30 Days)
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
@@ -290,6 +296,7 @@ AlgoMaster/
 | Execute Asynchronous Functions in Parallel | ✅ | - | Medium |
 | Is Object Empty | ✅ | - | Easy |
 | Chunk Array | ✅ | - | Easy |
+| Array Prototype Last | ✅ | - | Easy |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -312,6 +319,7 @@ AlgoMaster/
 | String Contains All Binary Codes of Size K | ✅ | - | Medium |
 | Sum of Root To Leaf Binary Numbers | ✅ | - | Easy |
 | Sort the Number By Number Of 1 Bits | ✅ | - | Easy |
+| Number Steps Reduce Number Binary Representation One | ✅ | - | Medium |
 
 ### Heap
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -340,6 +348,8 @@ AlgoMaster/
 | Two Sum | ✅ | - | Easy |
 | Simple Bank System | ✅ | - | Medium |
 | Repeated String Match | ✅ | - | Medium |
+| Combination | ✅ | - | Medium |
+| Majority Element | ✅ | - | Easy |
 
 ---
 
@@ -368,6 +378,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 25/02/2026
+**Last Updated**: 26/02/2026
 
 *Keep grinding! Consistency is key! 💪*
