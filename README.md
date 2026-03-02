@@ -6,15 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 173 | 7/day | 🔥 Active |
-| **AlgoMaster** | 51 | 3/day | 🔥 Active |
-| **Total** | **224** | **10/day** | ✅ On Track |
+| **LeetCode** | 174 | 7/day | 🔥 Active |
+| **AlgoMaster** | 54 | 3/day | 🔥 Active |
+| **Total** | **228** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (173 Problems)
+### 🟢 LeetCode (174 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -54,7 +54,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (51 Problems)
+### 🔵 AlgoMaster (54 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -154,6 +154,7 @@ AlgoMaster/
 | Group Anagrams | - | ✅ | Medium |
 | Ransom Note | - | ✅ | Easy |
 | Range Sum Query | - | ✅ | Easy |
+| Reorganize String | - | ✅ | Medium |
 
 ### Stack
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -179,6 +180,7 @@ AlgoMaster/
 | Longest Substring Without Repeating | ✅ | ✅ ⭐ | Medium |
 | Find All Anagrams in a String | - | ✅ | Medium |
 | Contains Duplicate II | - | ✅ | Easy |
+| Longest Repeating Character Replacement | - | ✅ | Medium |
 
 ### Prefix Sum
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -186,6 +188,7 @@ AlgoMaster/
 | Subarray Sum Equals K | - | ✅ | Medium |
 | Contiguous Array | - | ✅ | Medium |
 | Contiguous Subarray Sum | - | ✅ | Medium |
+| Subarray Sum Divisible by K | - | ✅ | Medium |
 
 ### Kadane's Algorithm
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -297,6 +300,7 @@ AlgoMaster/
 | Is Object Empty | ✅ | - | Easy |
 | Chunk Array | ✅ | - | Easy |
 | Array Prototype Last | ✅ | - | Easy |
+| Group By | ✅ | - | Easy |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -378,6 +382,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 26/02/2026
+**Last Updated**: 27/02/2026
 
 *Keep grinding! Consistency is key! 💪*
