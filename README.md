@@ -6,15 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 174 | 7/day | 🔥 Active |
-| **AlgoMaster** | 54 | 3/day | 🔥 Active |
-| **Total** | **228** | **10/day** | ✅ On Track |
+| **LeetCode** | 185 | 7/day | 🔥 Active |
+| **AlgoMaster** | 58 | 3/day | 🔥 Active |
+| **Total** | **243** | **10/day** | ✅ On Track |
 
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (174 Problems)
+### 🟢 LeetCode (185 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -54,7 +54,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (54 Problems)
+### 🔵 AlgoMaster (58 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -94,6 +94,7 @@ AlgoMaster/
 | Rotate Array | ✅ | ✅ ⭐ | Medium |
 | Product of Array Except Self | ✅ | ✅ ⭐ | Medium |
 | First Missing Positive | - | ✅ | Hard |
+| Number of Zero-Filled Subarrays | - | ✅ | Medium |
 
 ### Strings
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -155,6 +156,7 @@ AlgoMaster/
 | Ransom Note | - | ✅ | Easy |
 | Range Sum Query | - | ✅ | Easy |
 | Reorganize String | - | ✅ | Medium |
+| Encode and Decode TinyURL | - | ✅ | Medium |
 
 ### Stack
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -181,6 +183,7 @@ AlgoMaster/
 | Find All Anagrams in a String | - | ✅ | Medium |
 | Contains Duplicate II | - | ✅ | Easy |
 | Longest Repeating Character Replacement | - | ✅ | Medium |
+| Maximum Average Subarray I | - | ✅ | Easy |
 
 ### Prefix Sum
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -189,6 +192,7 @@ AlgoMaster/
 | Contiguous Array | - | ✅ | Medium |
 | Contiguous Subarray Sum | - | ✅ | Medium |
 | Subarray Sum Divisible by K | - | ✅ | Medium |
+| Range Sum Query - Immutable | - | ✅ | Easy |
 
 ### Kadane's Algorithm
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -273,6 +277,7 @@ AlgoMaster/
 | List the Products Ordered in Period | ✅ | - | Easy |
 | Game Play Analysis I | ✅ | - | Easy |
 | Employee Bonus | ✅ | - | Easy |
+| Big Countries | ✅ | - | Easy |
 
 **✅ SQL Quest Completed!**
 
@@ -301,6 +306,7 @@ AlgoMaster/
 | Chunk Array | ✅ | - | Easy |
 | Array Prototype Last | ✅ | - | Easy |
 | Group By | ✅ | - | Easy |
+| Sort By | ✅ | - | Easy |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -308,6 +314,8 @@ AlgoMaster/
 | Vowel Consonant Score | ✅ | - | Easy |
 | Count Monobit Integers | ✅ | - | Medium |
 | Final Element After Subarray Deletions | ✅ | - | Medium |
+| Minimum Cost to Split Ones | ✅ | - | Medium |
+| Trim Trailing Vowels | ✅ | - | Easy |
 
 ### Daily Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -354,6 +362,16 @@ AlgoMaster/
 | Repeated String Match | ✅ | - | Medium |
 | Combination | ✅ | - | Medium |
 | Majority Element | ✅ | - | Easy |
+| Squares of a Sorted Array | ✅ | - | Easy |
+| Invert Binary Tree | ✅ | - | Easy |
+| Find the Index of First Occurrence | ✅ | - | Easy |
+| Trapping Rain Water | ✅ | - | Hard |
+| Find Kth Bit in Nth Binary String | ✅ | - | Medium |
+| Circle and Rectangle Overlapping | ✅ | - | Medium |
+| Mirror Reflection | ✅ | - | Medium |
+| Odd Even Linked List | ✅ | - | Medium |
+| Minimum Swaps to Arrange Binary Grid | ✅ | - | Medium |
+| Partitioning Into Minimum Number of Deci-Binary Numbers | ✅ | - | Medium |
 
 ---
 
@@ -382,6 +400,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 27/02/2026
+**Last Updated**: 03/03/2026
 
 *Keep grinding! Consistency is key! 💪*
