@@ -1,0 +1,54 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+        <style>
+            .title { font-size: 18px; font-weight: bold; fill: #333; }
+            .axis { stroke: #ccc; stroke-width: 1; }
+            .bar { fill: #A23B72; opacity: 0.8; }
+            .label { font-size: 10px; fill: #666; }
+        </style>
+        
+        <text x="400" y="30" text-anchor="middle" class="title">🎯 Daily Problems Solved</text>
+        
+        <!-- Y-axis -->
+        <line x1="60" y1="60" x2="60" y2="340" class="axis"/>
+        
+        <!-- X-axis -->
+        <line x1="60" y1="340" x2="740" y2="340" class="axis"/>
+    
+                <rect x="62.0" y="200.0" width="52.666666666666664" height="140.0" class="bar"/>
+                <text x="88.33333333333333" y="355" text-anchor="middle" class="label">30</text>
+            <text x="88.33333333333333" y="195.0" text-anchor="middle" class="label">1</text>
+                <rect x="118.66666666666666" y="60.0" width="52.666666666666664" height="280.0" class="bar"/>
+                <text x="145.0" y="355" text-anchor="middle" class="label">10</text>
+            <text x="145.0" y="55.0" text-anchor="middle" class="label">2</text>
+                <rect x="175.33333333333331" y="200.0" width="52.666666666666664" height="140.0" class="bar"/>
+                <text x="201.66666666666666" y="355" text-anchor="middle" class="label">12</text>
+            <text x="201.66666666666666" y="195.0" text-anchor="middle" class="label">1</text>
+                <rect x="232.0" y="200.0" width="52.666666666666664" height="140.0" class="bar"/>
+                <text x="258.3333333333333" y="355" text-anchor="middle" class="label">17</text>
+            <text x="258.3333333333333" y="195.0" text-anchor="middle" class="label">1</text>
+                <rect x="288.66666666666663" y="200.0" width="52.666666666666664" height="140.0" class="bar"/>
+                <text x="314.99999999999994" y="355" text-anchor="middle" class="label">18</text>
+            <text x="314.99999999999994" y="195.0" text-anchor="middle" class="label">1</text>
+                <rect x="345.3333333333333" y="200.0" width="52.666666666666664" height="140.0" class="bar"/>
+                <text x="371.66666666666663" y="355" text-anchor="middle" class="label">19</text>
+            <text x="371.66666666666663" y="195.0" text-anchor="middle" class="label">1</text>
+                <rect x="402.0" y="60.0" width="52.666666666666664" height="280.0" class="bar"/>
+                <text x="428.3333333333333" y="355" text-anchor="middle" class="label">20</text>
+            <text x="428.3333333333333" y="55.0" text-anchor="middle" class="label">2</text>
+                <rect x="458.66666666666663" y="60.0" width="52.666666666666664" height="280.0" class="bar"/>
+                <text x="484.99999999999994" y="355" text-anchor="middle" class="label">23</text>
+            <text x="484.99999999999994" y="55.0" text-anchor="middle" class="label">2</text>
+                <rect x="515.3333333333333" y="60.0" width="52.666666666666664" height="280.0" class="bar"/>
+                <text x="541.6666666666666" y="355" text-anchor="middle" class="label">24</text>
+            <text x="541.6666666666666" y="55.0" text-anchor="middle" class="label">2</text>
+                <rect x="572.0" y="200.0" width="52.666666666666664" height="140.0" class="bar"/>
+                <text x="598.3333333333334" y="355" text-anchor="middle" class="label">26</text>
+            <text x="598.3333333333334" y="195.0" text-anchor="middle" class="label">1</text>
+                <rect x="628.6666666666666" y="60.0" width="52.666666666666664" height="280.0" class="bar"/>
+                <text x="655.0" y="355" text-anchor="middle" class="label">02</text>
+            <text x="655.0" y="55.0" text-anchor="middle" class="label">2</text>
+                <rect x="685.3333333333333" y="60.0" width="52.666666666666664" height="280.0" class="bar"/>
+                <text x="711.6666666666666" y="355" text-anchor="middle" class="label">03</text>
+            <text x="711.6666666666666" y="55.0" text-anchor="middle" class="label">2</text>
+        <text x="10" y="390" class="label">Total: 18 | Avg: 1.5/day</text>
+    </svg>

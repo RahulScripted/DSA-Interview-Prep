@@ -6,15 +6,22 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 185 | 7/day | 🔥 Active |
-| **AlgoMaster** | 58 | 3/day | 🔥 Active |
-| **Total** | **243** | **10/day** | ✅ On Track |
+| **LeetCode** | 192 | 7/day | 🔥 Active |
+| **AlgoMaster** | 61 | 3/day | 🔥 Active |
+| **Total** | **253** | **10/day** | ✅ On Track |
 
+## 📈 Daily Commitment Analytics
+
+### 🟢 Git Commits Per Day
+![Commits Chart](assets/commits_per_day.svg)
+
+### 🔵 Problems Solved Per Day
+![Problems Chart](assets/problems_per_day.svg)
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (185 Problems)
+### 🟢 LeetCode (192 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -54,7 +61,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (58 Problems)
+### 🔵 AlgoMaster (61 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -95,6 +102,7 @@ AlgoMaster/
 | Product of Array Except Self | ✅ | ✅ ⭐ | Medium |
 | First Missing Positive | - | ✅ | Hard |
 | Number of Zero-Filled Subarrays | - | ✅ | Medium |
+| Increasing Triplet Subsequence | - | ✅ | Medium |
 
 ### Strings
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -105,6 +113,7 @@ AlgoMaster/
 | Longest Substring Without Repeating | ✅ | ✅ ⭐ | Medium |
 | Reverse Words in String | ✅ | ✅ ⭐ | Medium |
 | Zigzag Conversion | - | ✅ | Medium |
+| Guess The Word | - | ✅ | Hard |
 
 ### Linked List
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -157,6 +166,7 @@ AlgoMaster/
 | Range Sum Query | - | ✅ | Easy |
 | Reorganize String | - | ✅ | Medium |
 | Encode and Decode TinyURL | - | ✅ | Medium |
+| Longest Consecutive Sequence | - | ✅ | Medium |
 
 ### Stack
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -278,6 +288,7 @@ AlgoMaster/
 | Game Play Analysis I | ✅ | - | Easy |
 | Employee Bonus | ✅ | - | Easy |
 | Big Countries | ✅ | - | Easy |
+| Managers with at Least 5 Direct Reports | ✅ | - | Medium |
 
 **✅ SQL Quest Completed!**
 
@@ -307,6 +318,7 @@ AlgoMaster/
 | Array Prototype Last | ✅ | - | Easy |
 | Group By | ✅ | - | Easy |
 | Sort By | ✅ | - | Easy |
+| Join Two Arrays by ID | ✅ | - | Medium |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -372,6 +384,9 @@ AlgoMaster/
 | Odd Even Linked List | ✅ | - | Medium |
 | Minimum Swaps to Arrange Binary Grid | ✅ | - | Medium |
 | Partitioning Into Minimum Number of Deci-Binary Numbers | ✅ | - | Medium |
+| Special Positions in Binary Matrix | ✅ | - | Easy |
+| Find the Original Array of Prefix XOR | ✅ | - | Medium |
+| Zigzag Conversion | ✅ | - | Medium |
 
 ---
 
@@ -400,6 +415,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 03/03/2026
+**Last Updated**: 04/03/2026
 
 *Keep grinding! Consistency is key! 💪*
