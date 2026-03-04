@@ -10,14 +10,6 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 | **AlgoMaster** | 61 | 3/day | 🔥 Active |
 | **Total** | **253** | **10/day** | ✅ On Track |
 
-## 📈 Daily Commitment Analytics
-
-### 🟢 Git Commits Per Day
-![Commits Chart](assets/commits_per_day.svg)
-
-### 🔵 Problems Solved Per Day
-![Problems Chart](assets/problems_per_day.svg)
-
 
 ## 📁 Repository Structure
 
