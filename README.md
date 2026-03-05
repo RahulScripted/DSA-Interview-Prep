@@ -6,14 +6,14 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 192 | 7/day | 🔥 Active |
-| **AlgoMaster** | 61 | 3/day | 🔥 Active |
-| **Total** | **253** | **10/day** | ✅ On Track |
+| **LeetCode** | 204 | 7/day | 🔥 Active |
+| **AlgoMaster** | 64 | 3/day | 🔥 Active |
+| **Total** | **268** | **10/day** | ✅ On Track |
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (192 Problems)
+### 🟢 LeetCode (204 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -53,7 +53,7 @@ Leetcode/
     └── Two Pointers/
 ```
 
-### 🔵 AlgoMaster (61 Problems)
+### 🔵 AlgoMaster (64 Problems)
 ```
 AlgoMaster/
 ├── Arrays/
@@ -122,6 +122,13 @@ AlgoMaster/
 | Remove Linked List Elements | ✅ | - | Easy |
 | Rotate List | - | ✅ | Medium |
 
+### Fast & Slow Pointers
+| Problem | LeetCode | AlgoMaster | Difficulty |
+|---------|----------|------------|------------|
+| Happy Number | - | ✅ | Easy |
+| Linked List Cycle II | - | ✅ | Medium |
+| Middle of Linked List | ✅ | ✅ ⭐ | Easy |
+
 ### Two Pointers
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
@@ -159,6 +166,7 @@ AlgoMaster/
 | Reorganize String | - | ✅ | Medium |
 | Encode and Decode TinyURL | - | ✅ | Medium |
 | Longest Consecutive Sequence | - | ✅ | Medium |
+| Split Array Consecutive Subsequences | - | ✅ | Medium |
 
 ### Stack
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -186,6 +194,7 @@ AlgoMaster/
 | Contains Duplicate II | - | ✅ | Easy |
 | Longest Repeating Character Replacement | - | ✅ | Medium |
 | Maximum Average Subarray I | - | ✅ | Easy |
+| Permutation in String | - | ✅ | Medium |
 
 ### Prefix Sum
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -407,6 +416,6 @@ AlgoMaster/
 
 ---
 
-**Last Updated**: 04/03/2026
+**Last Updated**: 05/03/2026
 
 *Keep grinding! Consistency is key! 💪*
