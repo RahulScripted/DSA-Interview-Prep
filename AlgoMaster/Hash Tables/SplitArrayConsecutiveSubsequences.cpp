@@ -15,7 +15,7 @@ using namespace std;
 
 class Solution {
 public:
-    bool isPossible(vector<int>& nums) {
+    bool isPossible(vector<int>& A) {
         unordered_map<int, int> left, end;
         for (int i: A)  left[i]++;
 
