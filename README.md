@@ -6,14 +6,15 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 204 | 7/day | 🔥 Active |
+| **LeetCode** | 210 | 7/day | 🔥 Active |
 | **AlgoMaster** | 64 | 3/day | 🔥 Active |
-| **Total** | **268** | **10/day** | ✅ On Track |
+| **Blind Sheet** | 2 | 2/day | 🔥 Active |
+| **Total** | **276** | **12/day** | ✅ On Track |
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (204 Problems)
+### 🟢 LeetCode (210 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -23,6 +24,8 @@ Leetcode/
 │   ├── JSON/
 │   └── Promises and Time/
 ├── Contest/
+│   ├── Contest 491/
+│   ├── Contest 493/
 │   ├── Contest-484/
 │   ├── Contest-485/
 │   └── Contest-487/
@@ -68,6 +71,13 @@ AlgoMaster/
 ├── Stack/
 ├── Strings/
 └── Two Pointers/
+```
+
+### 🟠 Blind Sheet (2 Problems)
+```
+Blind Sheet/
+├── Array/
+└── Binary/
 ```
 
 ---
@@ -320,6 +330,7 @@ AlgoMaster/
 | Group By | ✅ | - | Easy |
 | Sort By | ✅ | - | Easy |
 | Join Two Arrays by ID | ✅ | - | Medium |
+| Flatten Deeply Nested Array | ✅ | - | Medium |
 
 ### Contest Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -329,6 +340,14 @@ AlgoMaster/
 | Final Element After Subarray Deletions | ✅ | - | Medium |
 | Minimum Cost to Split Ones | ✅ | - | Medium |
 | Trim Trailing Vowels | ✅ | - | Easy |
+| Count Commas in Range | ✅ | - | Medium |
+| Count Commas in Range II | ✅ | - | Hard |
+
+### Blind Sheet Problems
+| Problem | LeetCode | AlgoMaster | Blind Sheet | Difficulty |
+|---------|----------|------------|-------------|------------|
+| Best Time to Buy and Sell Stock | ✅ | ✅ ⭐ | ✅ | Easy |
+| Two Sum | ✅ | - | ✅ | Easy |
 
 ### Daily Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -395,7 +414,7 @@ AlgoMaster/
 
 - [x] 🎯 100 problems solved
 - [x] 🎯 200 problems solved
-- [] 🎯 300 problems solved
+- [x] 🎯 300 problems solved
 - [] 🎯 400 problems solved
 - [] 🎯 500 problems solved
 - [] 🎯 600 problems solved
@@ -409,6 +428,7 @@ AlgoMaster/
 ### Resources
 - [LeetCode](https://leetcode.com)
 - [AlgoMaster](https://algomaster.io)
+- [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 ## 📌 Quick Links
 
