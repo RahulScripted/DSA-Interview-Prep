@@ -6,15 +6,16 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 210 | 7/day | 🔥 Active |
-| **AlgoMaster** | 64 | 3/day | 🔥 Active |
+| **LeetCode** | 211 | 2/day | 🔥 Active |
+| **AlgoMaster** | 64 | 3/day | ✅ Completed |
 | **Blind Sheet** | 2 | 2/day | 🔥 Active |
-| **Total** | **276** | **12/day** | ✅ On Track |
+| **2026 Campaign** | 1 | 1/day | 🔥 Active |
+| **Total** | **278** | **5/day** | ✅ On Track |
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (210 Problems)
+### 🟢 LeetCode (211 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -78,6 +79,13 @@ AlgoMaster/
 Blind Sheet/
 ├── Array/
 └── Binary/
+```
+
+### 🆕 2026 Offer Expedition Campaign (1 Problem)
+```
+2026 Offer Expedition Campaign/
+├── Interview Instance I/
+└── Interview Instance II/
 ```
 
 ---
@@ -265,6 +273,11 @@ Blind Sheet/
 |---------|----------|------------|------------|
 | LRU Cache | ✅ | - | Medium |
 
+### 2026 Offer Expedition Campaign
+| Problem | Platform | Difficulty |
+|---------|----------|------------|
+| LRU Cache | Interview Instance I | Medium |
+
 ### Database (SQL)
 | Problem | LeetCode | AlgoMaster | Difficulty |
 |---------|----------|------------|------------|
@@ -407,6 +420,7 @@ Blind Sheet/
 | Special Positions in Binary Matrix | ✅ | - | Easy |
 | Find the Original Array of Prefix XOR | ✅ | - | Medium |
 | Zigzag Conversion | ✅ | - | Medium |
+| Find Highest Altitude | ✅ | - | Easy |
 
 ---
 
