@@ -6,16 +6,16 @@ Comprehensive DSA interview preparation with problems commonly asked by product-
 
 | Platform | Total Solved | Daily Target | Status |
 |----------|-------------|--------------|--------|
-| **LeetCode** | 211 | 2/day | 🔥 Active |
+| **LeetCode** | 213 | 2/day | 🔥 Active |
 | **AlgoMaster** | 64 | 3/day | ✅ Completed |
-| **Blind Sheet** | 2 | 2/day | 🔥 Active |
-| **2026 Campaign** | 1 | 1/day | 🔥 Active |
-| **Total** | **278** | **5/day** | ✅ On Track |
+| **Blind Sheet** | 4 | 2/day | 🔥 Active |
+| **2026 Campaign** | 2 | 1/day | 🔥 Active |
+| **Total** | **283** | **5/day** | ✅ On Track |
 
 
 ## 📁 Repository Structure
 
-### 🟢 LeetCode (211 Problems)
+### 🟢 LeetCode (213 Problems)
 ```
 Leetcode/
 ├── 30 days of JS/
@@ -74,14 +74,14 @@ AlgoMaster/
 └── Two Pointers/
 ```
 
-### 🟠 Blind Sheet (2 Problems)
+### 🟠 Blind Sheet (4 Problems)
 ```
 Blind Sheet/
 ├── Array/
 └── Binary/
 ```
 
-### 🆕 2026 Offer Expedition Campaign (1 Problem)
+### 🆕 2026 Offer Expedition Campaign (2 Problems)
 ```
 2026 Offer Expedition Campaign/
 ├── Interview Instance I/
@@ -277,6 +277,7 @@ Blind Sheet/
 | Problem | Platform | Difficulty |
 |---------|----------|------------|
 | LRU Cache | Interview Instance I | Medium |
+| Merge Intervals | Interview Instance I | Medium |
 
 ### Database (SQL)
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -361,6 +362,8 @@ Blind Sheet/
 |---------|----------|------------|-------------|------------|
 | Best Time to Buy and Sell Stock | ✅ | ✅ ⭐ | ✅ | Easy |
 | Two Sum | ✅ | - | ✅ | Easy |
+| Contains Duplicate | ✅ | - | ✅ | Easy |
+| Product of Array Except Self | ✅ | ✅ ⭐ | ✅ | Medium |
 
 ### Daily Problems
 | Problem | LeetCode | AlgoMaster | Difficulty |
@@ -421,6 +424,8 @@ Blind Sheet/
 | Find the Original Array of Prefix XOR | ✅ | - | Medium |
 | Zigzag Conversion | ✅ | - | Medium |
 | Find Highest Altitude | ✅ | - | Easy |
+| Largest Submatrix With Rearrangements | ✅ | - | Medium |
+| Make Sum Divisible by P | ✅ | - | Medium |
 
 ---
 
